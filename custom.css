@@ -82,8 +82,8 @@ body {
 }
 
 .proceed-row {
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-left: 0px;
+    margin-right: 0px;
 }
 
 .proceed-button {
@@ -97,8 +97,9 @@ body {
     margin-bottom: 0;
     padding: 10px 15px;
     width: 100%;
+    text-transform: uppercase;
     font-weight: bold;
-    font-size: larger;
+    font-size: 15px;
 }
 
 button[disabled], html input[disabled] {
